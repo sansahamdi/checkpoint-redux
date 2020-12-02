@@ -1,0 +1,32 @@
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, 0.418);
+    border-radius: 2%;
+}
+
+form{
+    text-align: center;
+}
+
+#root{
+    margin: 15px 0;
+}
+
+.App{
+    width: 60%;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.formEdit{
+    display: flex;
+    justify-content: space-between;
+}
+
+.done{
+    text-decoration: line-through;
+}
